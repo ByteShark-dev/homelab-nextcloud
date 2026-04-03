@@ -52,3 +52,11 @@ Servidor en funcionamiento y en mejora continua.
 
 ## Nota de seguridad
 Este repositorio no incluye información sensible como direcciones IP, credenciales o configuraciones privadas.
+
+## Evidencia
+
+### Panel de Nextcloud
+![Panel](./assets/panel.png)
+
+### Interfaz web
+![Web](./assets/web.png)
