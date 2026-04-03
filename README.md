@@ -9,6 +9,18 @@ Este proyecto documenta la implementación y gestión de un servidor personal pa
 - Sincronización entre dispositivos
 - Aprendizaje práctico de servidores reales
 
+## Funcionamiento
+
+El servidor corre Nextcloud sobre Ubuntu y permite:
+
+- Acceso a archivos desde la red local
+- Sincronización entre dispositivos
+
+
+El flujo general es:
+
+Usuario → Navegador / App → Servidor Nextcloud → Almacenamiento local
+
 ## Entorno
 - Sistema operativo: Ubuntu
 - Servicio: Nextcloud
